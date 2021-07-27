@@ -1,5 +1,6 @@
 import sthArtwork from "./assets/sthartwork.jpg"
 import positivTrumpetArt from "./assets/positiv-trumpet.jpg"
+
 import sthMusic from "./assets/Save the Hero - Left You Behind.mp3"
 import positivTrumpet from "./assets/John_Sib_positiv-trumpet.mp3"
 
